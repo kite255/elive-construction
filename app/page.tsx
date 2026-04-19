@@ -108,7 +108,7 @@ export default function EliveUnderConstructionPage() {
         </div>
 
           <div className="border-t border-[#eef2f6] px-10 py-4 text-sm text-[#7b8aa0] md:px-14">
-          © {new Date().getFullYear()} eLive. All rights reserved.
+          © {new Date().getFullYear()} eLive Company Limited. All rights reserved.
         </div>
       </motion.section>
     </main>
